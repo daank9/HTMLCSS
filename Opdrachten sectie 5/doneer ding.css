@@ -1,0 +1,55 @@
+h1{
+    color: orange;
+
+
+}
+
+img{
+    width: 100px;
+    height: 100px;
+
+}
+
+p{
+    color: orange;
+}
+
+.haha{
+    float: left;
+    margin-top: 55px;
+    letter-spacing: 15;
+}
+
+.hahaha{
+    float: left;
+    margin-bottom: 50;
+}
+
+.jaja{
+    clear: both;
+    max-width: 250px;
+    font-size: 25;
+    letter-spacing: 15;
+}
+
+.patat{
+    float: right;
+    margin-top: -665;
+    margin-right: 800;
+}
+
+.stoel{
+    float: right;
+    margin-top: -630;
+    margin-right: 520;
+    letter-spacing: 15 ;
+}
+
+.appel{
+    float: right;
+    margin-top: -560;
+    margin-right: 620;
+    font-size: 25;
+    letter-spacing: 15; 
+    max-width: 250px;
+}

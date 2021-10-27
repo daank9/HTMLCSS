@@ -1,0 +1,30 @@
+
+nav * {
+    padding:10px 56 npx;
+    display: inline-block;
+    margin: 5;
+}
+.a, .e{
+    background-color: green;
+}
+.b, .f {
+    background-color:yellow;
+}
+.c, .g {
+    background-color:red;
+}
+.d, .h {
+    background-color:blue;
+}
+
+.flex-container{
+    display:flex;
+    flex-direction: row;
+
+}
+
+@media (max-width: 800px) {
+    .flex-container {
+        flex-direction: column;
+    }
+}

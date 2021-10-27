@@ -1,0 +1,55 @@
+.gansfoto1 img{
+    width: 200px;
+    height: 200px;
+    border: 5px solid ;
+    padding: 50px;
+    margin-bottom: -80;
+    
+    
+
+}
+
+h1{
+    color: green;
+}
+
+h4{
+    color: red;
+    font-size: 20px;
+    margin-top: -10;
+}
+
+p{
+    color: lightgreen;
+    margin-top: -16;
+}
+
+.haha{
+    margin-left: 80%;
+    margin-top: -300;
+    margin-bottom: 50;
+    
+}
+
+h3{
+    margin-left: 600;
+    color: green;
+
+}
+
+h5{
+    font-size: 20;
+    color: green;
+    margin-left: 1300;
+    margin-top: -50;
+}
+
+.ganso img{
+    margin-left: 600;
+    margin-top: -60;
+    width: 300;
+    height: 150;
+    border-radius: 60%;
+}
+
+

@@ -1,0 +1,17 @@
+.goose1{
+    height: 300px;
+    width: 300px;
+    padding: 125px;
+    border: 10px;
+    box-sizing: content-box
+}
+
+.goose2{
+    height: 300px;
+    width: 300px;
+    padding: 125px;
+    border: 10px;
+    box-sizing: border-box
+    
+}
+

@@ -1,0 +1,12 @@
+.jaja{
+    color:purple;
+}
+
+.haha{
+    color: green;
+    text-decoration: none;
+}
+
+.jaja:hover{
+    background-color: yellow    ;
+}

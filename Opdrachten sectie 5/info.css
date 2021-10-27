@@ -1,0 +1,28 @@
+.plaatje{
+   height: 200px;
+   width: 650px;
+   background-image: url("vogel1 (3).jpg");
+   margin-left: 200;
+   margin-top: 150;
+   display: block;
+}
+
+.tekst{
+    float: left;
+    display: block;
+    margin-left: 900px;
+    margin-top: -200;
+    text-align: center;
+    
+}
+
+a{
+    background-color: lightsalmon;
+    text-decoration: none;
+    color: black;
+    border: 1px solid coral;
+    border-radius: 60px;
+    padding: 5px;
+    margin-left: 900;
+    
+}

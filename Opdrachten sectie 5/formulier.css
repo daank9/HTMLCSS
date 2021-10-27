@@ -1,0 +1,68 @@
+img{
+    margin-top: -10;
+    width: 1545px;
+    margin-left: -10;
+    height: 300px;
+    position: relative;
+}
+
+h1{
+    margin-left: 100;
+    font-family:'Times New Roman', Times, serif; 
+
+}
+
+hr{
+    color: yellow;
+    width: 300;
+    margin-left: 75;
+    margin-top: -20;
+}
+
+form {
+    margin-left: 150;
+    
+}
+
+
+
+
+.bob{
+    margin-left:-103;
+    
+}
+
+.hahaha{
+    margin-left: 20;
+}
+
+.hoho{
+    margin-left: 42;
+    margin-top: 10;
+}
+
+.hohoho{
+    margin-left: -80;
+}
+
+.hihi{
+    margin-left: -60;
+}
+
+.baba{
+    margin-left: 40;
+}
+input[type=text]{
+    border: solid 2px yellow;
+    margin-top: 5;
+}
+
+p{
+    margin-left: -65;
+    margin-top: 40;
+    margin-bottom: -40;
+}
+
+.bebe{
+    margin-top: 30
+}
