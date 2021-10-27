@@ -1,0 +1,38 @@
+@media (max-width: 1600px){
+    .vierkant{
+        background-color: red;
+        width: 600px;
+        height: 600px;
+        
+    }
+    
+}
+
+@media (max-width: 500px){
+    .vierkant{
+        background-color: yellow;
+        width: 300px;
+        height: 300px;
+
+    }
+}
+
+
+    
+@media (max-width: 300px){
+    .vierkant{
+        background-color: green;
+        width: 200px;
+        height: 200px;
+
+    }
+}
+
+@media (max-width: 150px){
+    .vierkant{
+        background-color: blue;
+        width: 100px;
+        height: 100px;
+
+    }
+}
