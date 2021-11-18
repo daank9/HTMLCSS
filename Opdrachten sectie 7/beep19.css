@@ -1,0 +1,40 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    border: 3px solid black;
+    width: 350;
+    height: 53;
+    
+    
+}
+
+.flex__child{
+    border: 2px solid green;
+    font-size: larger;
+    height: 50;
+    width: 25;
+    text-align: center;
+    
+    
+    
+}
+
+.yellow{
+    background: yellow;
+}
+
+.red{
+    background: red;
+}
+
+.purple{
+    background: purple;
+}
+
+.blue{
+    background: blue;
+}
+
+.s{
+    width: 200;
+}

@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    border: 3px solid black;
+    width: 1200;
+
+    flex-direction: row;
+    
+}
+
+.flex__child{
+    border: 2px solid green;
+    font-size: larger;
+    height: 400;
+    width: 300;
+    padding: 100;
+    
+}

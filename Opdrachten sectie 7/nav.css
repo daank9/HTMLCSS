@@ -1,0 +1,41 @@
+.mainyes{
+   display: flex;
+   background: mediumturquoise;
+   border: 3px solid yellow;
+   
+}
+
+.a{
+    
+    margin: 10;
+    border: 2px solid black;
+    width: 400;
+    height: 19;
+    text-align: center;
+    
+    
+    
+}
+
+@media (max-width: 800px){
+    .mainyes { 
+        width: 450;
+        flex-wrap: wrap;
+        
+       
+        
+    }
+    .a{
+        width: 200;
+    }
+}
+
+@media (max-width: 500px){
+    .mainyes { 
+        width: 200;
+        flex-wrap: wrap;
+    }
+
+
+}
+
