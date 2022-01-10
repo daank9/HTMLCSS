@@ -1,22 +1,22 @@
 .container{
-    width: 450px;
+    width: 430px;
     margin: 30px auto;
     border: 40px solid pink;
     display: grid;
     grid-template-columns: 130px 130px 130px;
     grid-template-areas: "auto auto auto" "auto auto auto" "auto";
-    grid-column-gap: 30px;
+   
     
     
 }
 
 .item{
-    height: 50px;
+    height: 80px;
     padding-left: 20px;
     padding-top: 30px;
-    grid-area: auto;
-    margin-bottom: 40;
+    
     font-size: 30px ;
+    
    
    
 }
@@ -31,6 +31,7 @@
 
 .C{
     background-color: red;
+    width: 150px;
 }
 
 .D{
@@ -43,8 +44,10 @@
 
 .F{
     background-color: green;
+    width: 150px;
 }
 
 .G{
     background-color: grey;
+    height: 150px;
 }
